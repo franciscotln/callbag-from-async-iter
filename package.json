@@ -1,0 +1,22 @@
+{
+  "author": "Francisco Tavares de Lima Neto",
+  "description": "👜 Converts an async iterable or iterator into a callbag pullable source",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~4.9.1"
+  },
+  "keywords": [
+    "callbag"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "callbag-from-async-iter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscotln/callbag-from-async-iter.git"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "version": "1.0.0"
+}
